@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Security8\Security8\bin\Debug\Security8.exe.config
+C:\Users\Admin\source\repos\Security8\Security8\bin\Debug\Security8.exe
+C:\Users\Admin\source\repos\Security8\Security8\bin\Debug\Security8.pdb
+C:\Users\Admin\source\repos\Security8\Security8\obj\Debug\Security8.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Security8\Security8\obj\Debug\Security8.Form1.resources
+C:\Users\Admin\source\repos\Security8\Security8\obj\Debug\Security8.Properties.Resources.resources
+C:\Users\Admin\source\repos\Security8\Security8\obj\Debug\Security8.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Security8\Security8\obj\Debug\Security8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Security8\Security8\obj\Debug\Security8.exe
+C:\Users\Admin\source\repos\Security8\Security8\obj\Debug\Security8.pdb
+C:\Users\Admin\source\repos\Security8\Security8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Security8\Security8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\Security8\Security8\obj\Debug\Security8.csproj.CopyComplete
